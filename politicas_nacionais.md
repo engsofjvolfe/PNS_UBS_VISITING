@@ -11,8 +11,7 @@
 
 ---
 
-<a id="pol-pnab"></a>
-## 1. Política Nacional de Atenção Básica — PNAB
+## <a id="pol-pnab"></a>1. Política Nacional de Atenção Básica — PNAB
 **Portaria GM/MS nº 2.436, de 21 de setembro de 2017**
 *(consolidada como Anexo XXII da Portaria de Consolidação nº 2/GM/MS/2017 — vigente)*
 
@@ -58,8 +57,7 @@ A PNAB é o instrumento que regula a operação cotidiana de toda a UBS. Seus di
 
 ---
 
-<a id="pol-financiamento"></a>
-## 2. Financiamento Federal da APS — Modelo Vigente desde maio/2024
+## <a id="pol-financiamento"></a>2. Financiamento Federal da APS — Modelo Vigente desde maio/2024
 **Portaria GM/MS nº 3.493, de 10 de abril de 2024**
 *(altera a Portaria de Consolidação GM/MS nº 6/2017; efeitos financeiros a partir da parcela de maio/2024)*
 *(Portaria GM/MS nº 6.907/2025 atualizou os eixos temáticos dos indicadores de qualidade; indicadores vigentes desde 2º quadrimestre de 2025)*
@@ -80,8 +78,7 @@ O novo modelo de cofinanciamento federal da APS, estabelecido no Capítulo I, T�
 
 ---
 
-<a id="pol-emulti"></a>
-## 2-A. Equipes Multiprofissionais na APS — eMulti
+## <a id="pol-emulti"></a>2-A. Equipes Multiprofissionais na APS — eMulti
 **Portaria GM/MS nº 635, de 22 de maio de 2023**
 *(parcialmente alterada pela Portaria GM/MS nº 3.493/2024 quanto ao componente de indicadores de desempenho)*
 
@@ -97,8 +94,7 @@ O novo modelo de cofinanciamento federal da APS, estabelecido no Capítulo I, T�
 
 ---
 
-<a id="pol-pnsb"></a>
-## 3. Política Nacional de Saúde Bucal (PNSB) — Brasil Sorridente
+## <a id="pol-pnsb"></a>3. Política Nacional de Saúde Bucal (PNSB) — Brasil Sorridente
 **Portaria GM/MS nº 1.444/2000 + Portaria GM/MS nº 267/2001 + Documento MS "Brasil Sorridente" (2004)**
 
 > **Aspectos do relatório:** [§3 Saúde bucal](relatorio.md#r-saude-bucal) · [§2 Equipe](relatorio.md#r-equipe)
@@ -116,8 +112,7 @@ O novo modelo de cofinanciamento federal da APS, estabelecido no Capítulo I, T�
 
 ---
 
-<a id="pol-pnps"></a>
-## 4. Política Nacional de Promoção da Saúde — PNPS
+## <a id="pol-pnps"></a>4. Política Nacional de Promoção da Saúde — PNPS
 **Portaria GM/MS nº 2.446, de 11 de novembro de 2014**
 *(consolidada como Anexo I da Portaria de Consolidação nº 2/GM/MS/2017 — revogada por consolidação, Art. 9º, item I)*
 
@@ -134,8 +129,7 @@ O novo modelo de cofinanciamento federal da APS, estabelecido no Capítulo I, T�
 
 ---
 
-<a id="pol-pneps"></a>
-## 5. Política Nacional de Educação Popular em Saúde — PNEPS-SUS
+## <a id="pol-pneps"></a>5. Política Nacional de Educação Popular em Saúde — PNEPS-SUS
 **Portaria GM/MS nº 2.761, de 19 de novembro de 2013**
 *(consolidada como Anexo V da Portaria de Consolidação nº 2/GM/MS/2017 — revogada por consolidação, Art. 9º, item XI)*
 
@@ -148,8 +142,7 @@ O novo modelo de cofinanciamento federal da APS, estabelecido no Capítulo I, T�
 
 ---
 
-<a id="pol-pnh"></a>
-## 6. Política Nacional de Humanização — PNH/HumanizaSUS
+## <a id="pol-pnh"></a>6. Política Nacional de Humanização — PNH/HumanizaSUS
 **Ministério da Saúde, 2003**
 *(sem portaria instituidora única; referenciada no Anexo da PNAB 2017 e na Portaria de Consolidação nº 2/2017)*
 
@@ -165,8 +158,7 @@ A PNH não tem artigos numerados — opera por "dispositivos" formalmente reconh
 
 ---
 
-<a id="pol-pnspi"></a>
-## 7. Política Nacional de Saúde da Pessoa Idosa — PNSPI
+## <a id="pol-pnspi"></a>7. Política Nacional de Saúde da Pessoa Idosa — PNSPI
 **Portaria GM/MS nº 2.528, de 19 de outubro de 2006**
 *(vigente; referenciada como política ativa em 2025 por sítios estaduais de saúde e literatura científica recente)*
 
@@ -184,8 +176,7 @@ A PNH não tem artigos numerados — opera por "dispositivos" formalmente reconh
 
 ---
 
-<a id="pol-pnaisc"></a>
-## 8. Política Nacional de Atenção Integral à Saúde da Criança — PNAISC
+## <a id="pol-pnaisc"></a>8. Política Nacional de Atenção Integral à Saúde da Criança — PNAISC
 **Portaria GM/MS nº 1.130, de 5 de agosto de 2015**
 *(consolidada como Anexo X da Portaria de Consolidação nº 2/GM/MS/2017 — revogada por consolidação, Art. 9º, item XX)*
 
@@ -201,8 +192,7 @@ A PNH não tem artigos numerados — opera por "dispositivos" formalmente reconh
 
 ---
 
-<a id="pol-pntn"></a>
-## 9. Programa Nacional de Triagem Neonatal — PNTN
+## <a id="pol-pntn"></a>9. Programa Nacional de Triagem Neonatal — PNTN
 **Portaria GM/MS nº 822, de 6 de junho de 2001**
 *(consolidada no Capítulo VI da Portaria de Consolidação GM/MS nº 5/2017, Arts. 142 e seguintes)*
 *(atualizada pela Portaria GM/MS nº 7.293, de 26 de junho de 2025 — ampliação do painel de doenças e reorganização da rede laboratorial)*
@@ -218,8 +208,7 @@ A PNH não tem artigos numerados — opera por "dispositivos" formalmente reconh
 
 ---
 
-<a id="pol-cegonha"></a>
-## 10. Rede Cegonha — Atenção Materna e Infantil
+## <a id="pol-cegonha"></a>10. Rede Cegonha — Atenção Materna e Infantil
 **Portaria GM/MS nº 1.459, de 24 de junho de 2011**
 *(arts. 1-9 e 12 consolidados como Anexo II — "Rede de Atenção Materna e Infantil (RAMI)" — da Portaria de Consolidação nº 3/GM/MS/2017 — revogada por consolidação, Art. 6º, item II)*
 
@@ -234,8 +223,7 @@ A PNH não tem artigos numerados — opera por "dispositivos" formalmente reconh
 
 ---
 
-<a id="pol-raps"></a>
-## 11. Rede de Atenção Psicossocial — RAPS
+## <a id="pol-raps"></a>11. Rede de Atenção Psicossocial — RAPS
 **Portaria GM/MS nº 3.088, de 23 de dezembro de 2011**
 *(consolidada como Anexo V da Portaria de Consolidação nº 3/GM/MS/2017 — revogada por consolidação, Art. 6º, item XXXIV)*
 
@@ -250,8 +238,7 @@ A PNH não tem artigos numerados — opera por "dispositivos" formalmente reconh
 
 ---
 
-<a id="pol-dcnt"></a>
-## 12. Rede de Atenção à Saúde das Pessoas com Doenças Crônicas
+## <a id="pol-dcnt"></a>12. Rede de Atenção à Saúde das Pessoas com Doenças Crônicas
 **Portaria GM/MS nº 483, de 1º de abril de 2014**
 *(consolidada na Portaria de Consolidação nº 3/GM/MS/2017 — revogada por consolidação, Art. 6º, item XXVI)*
 
@@ -267,8 +254,7 @@ A PNH não tem artigos numerados — opera por "dispositivos" formalmente reconh
 
 ---
 
-<a id="pol-hanseniase"></a>
-## 13. Diretrizes para Vigilância, Atenção e Eliminação da Hanseníase
+## <a id="pol-hanseniase"></a>13. Diretrizes para Vigilância, Atenção e Eliminação da Hanseníase
 **Portaria GM/MS nº 149, de 3 de fevereiro de 2016**
 *(substituiu a Portaria 3.125/2010, revogada; consolidada como Anexo VI da Portaria de Consolidação nº 2/GM/MS/2017 — revogada por consolidação, Art. 9º, item XIII)*
 
@@ -283,8 +269,7 @@ A PNH não tem artigos numerados — opera por "dispositivos" formalmente reconh
 
 ---
 
-<a id="pol-tuberculose"></a>
-## 14. Tuberculose
+## <a id="pol-tuberculose"></a>14. Tuberculose
 **Plano Nacional pelo Fim da Tuberculose como Problema de Saúde Pública**
 *(Aprovado pela CIT por meio da Portaria GM/MS nº 154, de 26 de janeiro de 2022, para o período 2021–2025)*
 
@@ -299,8 +284,7 @@ A PNH não tem artigos numerados — opera por "dispositivos" formalmente reconh
 
 ---
 
-<a id="pol-tabagismo"></a>
-## 15. Tabagismo
+## <a id="pol-tabagismo"></a>15. Tabagismo
 **Programa Nacional de Controle do Tabagismo — PNCT**
 *(Nota: o PNCT foi acrescentado formalmente à Portaria de Consolidação nº 2/2017 como Anexo IX-A pela Portaria GM/MS nº 502/2023)*
 
@@ -314,8 +298,7 @@ A PNH não tem artigos numerados — opera por "dispositivos" formalmente reconh
 
 ---
 
-<a id="pol-pnan"></a>
-## 16. Política Nacional de Alimentação e Nutrição — PNAN
+## <a id="pol-pnan"></a>16. Política Nacional de Alimentação e Nutrição — PNAN
 **Portaria GM/MS nº 2.715, de 17 de novembro de 2011**
 *(consolidada como Anexo III da Portaria de Consolidação nº 2/GM/MS/2017 — revogada por consolidação, Art. 9º, item V)*
 
@@ -327,8 +310,7 @@ A PNH não tem artigos numerados — opera por "dispositivos" formalmente reconh
 
 ---
 
-<a id="pol-pni"></a>
-## 17. Programa Nacional de Imunizações — PNI
+## <a id="pol-pni"></a>17. Programa Nacional de Imunizações — PNI
 **Lei nº 6.259, de 30 de outubro de 1975 + Decreto nº 78.231, de 12 de agosto de 1976**
 *(vigentes como lei e decreto federais)*
 

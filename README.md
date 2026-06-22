@@ -16,15 +16,19 @@ Este repositório responde a essa pergunta para a UBS Lázaro Moreno. Mas a estr
 
 ## Arquitetura dos documentos
 
-```
-relatorio.md  (Observação de campo)
-    |
-    +--origina--> pratica_e_norma.md  --cita--> dispositivos.md
-    |             (Correlação prática e norma)   (Textos primários)
-    |                        ^           <--retrolink--+
-    |                        |
-    +--origina--> politicas_nacionais.md --cita--> dispositivos.md
-                  (Índice normativo)      <--retrolink--+
+```mermaid
+graph LR
+    R["relatorio.md\n(Observação de campo)"]
+    PN["pratica_e_norma.md\n(Correlação prática e norma)"]
+    POL["politicas_nacionais.md\n(Índice normativo)"]
+    D["dispositivos.md\n(Textos primários)"]
+
+    R -- origina --> PN
+    R -- origina --> POL
+    PN -- cita --> D
+    POL -- cita --> D
+    D -. retrolink .-> PN
+    D -. retrolink .-> POL
 ```
 
 Todos os links são bidirecionais: cada documento referencia os outros via âncoras explícitas `<a id="...">` que funcionam em qualquer renderizador Markdown compatível com CommonMark.

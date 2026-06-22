@@ -6,8 +6,7 @@
 
 ---
 
-<a id="pn-s1"></a>
-## 1. A unidade e seu papel no sistema
+## <a id="pn-s1"></a>1. A unidade e seu papel no sistema
 
 > **Origem no relatório:** [Relatório — §1 Contexto e território](relatorio.md#r-contexto)
 
@@ -19,8 +18,7 @@ O Estado atua como provedor e regulador direto — definindo quem pode ser atend
 
 ---
 
-<a id="pn-s2"></a>
-## 2. A equipe: quem trabalha ali e o que a norma diz sobre cada profissional
+## <a id="pn-s2"></a>2. A equipe: quem trabalha ali e o que a norma diz sobre cada profissional
 
 > **Origem no relatório:** [Relatório — §2 Equipe](relatorio.md#r-equipe)
 
@@ -36,8 +34,7 @@ O caso das **duas assistentes sociais responsáveis por cerca de 9 mil famílias
 
 ---
 
-<a id="pn-s3"></a>
-## 3. Serviços: o que a UBS faz e o que a lei diz que deve fazer
+## <a id="pn-s3"></a>3. Serviços: o que a UBS faz e o que a lei diz que deve fazer
 
 > **Origem no relatório:** [Relatório — §3 Serviços oferecidos](relatorio.md#r-servicos)
 
@@ -141,8 +138,7 @@ A prática de usar o Dia das Mães, o Dia dos Pais e outras datas comemorativas 
 
 ---
 
-<a id="pn-s4"></a>
-## 4. A rede: como a UBS se integra com outros serviços
+## <a id="pn-s4"></a>4. A rede: como a UBS se integra com outros serviços
 
 > **Origem no relatório:** [Relatório — §3 Serviços oferecidos](relatorio.md#r-servicos)
 
@@ -152,8 +148,7 @@ Esse funcionamento é exatamente o que prevê a [**PNAB 2017, Art. 2º, § 1º**
 
 ---
 
-<a id="pn-s5"></a>
-## 5. Desafios: onde a prática diverge da norma
+## <a id="pn-s5"></a>5. Desafios: onde a prática diverge da norma
 
 > **Origem no relatório:** [Relatório — §4 Desafios relatados](relatorio.md#r-desafios)
 
@@ -171,8 +166,7 @@ O **subdimensionamento da equipe social** — duas assistentes sociais para ~9.0
 
 ---
 
-<a id="pn-s6"></a>
-## 6. Avanços: o que funciona e o que a norma previa
+## <a id="pn-s6"></a>6. Avanços: o que funciona e o que a norma previa
 
 > **Origem no relatório:** [Relatório — §5 Avanços observados](relatorio.md#r-avancos)
 
@@ -184,8 +178,7 @@ O fortalecimento da ESF e a proximidade com a comunidade correspondem ao que a [
 
 ---
 
-<a id="pn-s7"></a>
-## 7. O financiamento vinculado ao desempenho — modelo vigente em 2026
+## <a id="pn-s7"></a>7. O financiamento vinculado ao desempenho — modelo vigente em 2026
 
 O financiamento federal das equipes da UBS Lázaro Moreno opera, desde maio de 2024, pelo modelo instituído pela **Portaria GM/MS nº 3.493, de 10 de abril de 2024** (que alterou a Portaria de Consolidação GM/MS nº 6/2017), substituindo integralmente o antigo Previne Brasil. O modelo vigente tem três componentes:
 
