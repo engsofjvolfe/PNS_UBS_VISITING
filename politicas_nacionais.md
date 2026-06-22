@@ -3,7 +3,7 @@
 
 
 **Navegação do projeto:**
-[README](README.md) · [Relatório de campo](relatorio.md) · [Prática e Norma](pratica_e_norma.md) · [Dispositivos Legais](dispositivos.md)
+[README](README.md) · [Relatório de campo](relatorio.md) · [Prática e Norma](pratica_e_norma.md) · [Dispositivos Legais](dispositivos.md) · [Fundamentação Metodológica](fundamentacao_metodologica.md)
 
 ---
 

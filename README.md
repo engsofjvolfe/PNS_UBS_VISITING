@@ -36,6 +36,7 @@ graph LR
     PN["pratica_e_norma.md\n(Correlação prática e norma)"]
     POL["politicas_nacionais.md\n(Índice normativo)"]
     D["dispositivos.md\n(Textos primários)"]
+    FM["fundamentacao_metodologica.md\n(Embasamento metodológico)"]
 
     R -- origina --> PN
     R -- origina --> POL
@@ -43,6 +44,7 @@ graph LR
     POL -- cita --> D
     D -. retrolink .-> PN
     D -. retrolink .-> POL
+    FM -. enquadra .-> R
 ```
 
 Todos os links são bidirecionais: cada documento referencia os outros via âncoras explícitas `<a id="...">` que funcionam em qualquer renderizador Markdown compatível com CommonMark.
@@ -53,6 +55,7 @@ Todos os links são bidirecionais: cada documento referencia os outros via ânco
 | [`pratica_e_norma.md`](pratica_e_norma.md) | Correlação entre cada ação observada e o dispositivo que a ampara | [`dispositivos.md`](dispositivos.md) |
 | [`politicas_nacionais.md`](politicas_nacionais.md) | Índice organizado por política: dispositivos, transcrições resumidas e relação com o relatório | [`dispositivos.md`](dispositivos.md) |
 | [`dispositivos.md`](dispositivos.md) | Textos primários completos, links às fontes oficiais e retrolinks aos documentos analíticos | — |
+| [`fundamentacao_metodologica.md`](fundamentacao_metodologica.md) | Tradições acadêmicas e autores de referência que embasam o desenho do projeto | [`relatorio.md`](relatorio.md) |
 
 ---
 

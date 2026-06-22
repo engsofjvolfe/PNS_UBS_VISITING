@@ -7,6 +7,7 @@ Repositório dos textos primários de todos os dispositivos normativos citados n
 - [Relatório de campo](relatorio.md)
 - [Prática e Norma](pratica_e_norma.md)
 - [Políticas Nacionais — índice](politicas_nacionais.md)
+- [Fundamentação Metodológica](fundamentacao_metodologica.md)
 
 > **Convenção de status:** `[vigente]` — instrumento em vigor na íntegra. `[via consolidação]` — instrumento revogado por consolidação; conteúdo intacto e vinculante via Portaria de Consolidação indicada. `[atualizado]` — instrumento vigente com modificações posteriores indicadas.
 

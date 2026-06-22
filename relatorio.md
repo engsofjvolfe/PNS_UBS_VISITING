@@ -11,6 +11,7 @@
 - [Prática e Norma](pratica_e_norma.md) — correlaciona cada ação observada ao dispositivo normativo específico
 - [Políticas Nacionais](politicas_nacionais.md) — índice das políticas e seus dispositivos aplicáveis
 - [Dispositivos Legais](dispositivos.md) — textos primários verificados dos dispositivos citados
+- [Fundamentação Metodológica](fundamentacao_metodologica.md) — tradições acadêmicas e embasamento metodológico do projeto
 
 ---
 

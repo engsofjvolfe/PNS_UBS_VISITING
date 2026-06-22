@@ -2,7 +2,7 @@
 ### Uma análise determinística do que ocorre na unidade e quais dispositivos específicos das políticas nacionais de saúde amparam cada ação
 
 **Navegação do projeto:**
-[README](README.md) · [Relatório de campo](relatorio.md) · [Políticas Nacionais](politicas_nacionais.md) · [Dispositivos Legais](dispositivos.md)
+[README](README.md) · [Relatório de campo](relatorio.md) · [Políticas Nacionais](politicas_nacionais.md) · [Dispositivos Legais](dispositivos.md) · [Fundamentação Metodológica](fundamentacao_metodologica.md)
 
 ---
 
