@@ -9,6 +9,7 @@ Este projeto mapeia, de forma determinística, os dispositivos das políticas na
 ## Índice
 
 - [Por que este projeto existe](#readme-why)
+- [Posição em relação à literatura existente](#readme-posicao)
 - [Arquitetura dos documentos](#readme-arch)
 - [Princípio DRY aplicado à norma](#readme-dry)
 - [Metodologia](#readme-metodologia)
@@ -25,6 +26,20 @@ Este projeto mapeia, de forma determinística, os dispositivos das políticas na
 Políticas nacionais de saúde existem em papel. A questão determinante é: **qual dispositivo específico, de qual portaria vigente, fundamenta o que uma equipe de saúde faz todos os dias?**
 
 Este repositório responde a essa pergunta para a UBS Lázaro Moreno. Mas a estrutura é replicável para qualquer UBS.
+
+---
+
+## <a id="readme-posicao"></a>Posição em relação à literatura existente
+
+A avaliação de implantação de políticas de Atenção Primária à Saúde no Brasil é um campo consolidado. O PMAQ (Programa de Melhoria do Acesso e da Qualidade), encerrado em 2019, gerou ciclos nacionais de avaliação de UBS com produção acadêmica extensa. O PCATool — instrumento validado para medir os atributos da APS segundo Starfield — é amplamente utilizado em pesquisas que comparam o que as políticas preveem com o que as equipes e usuários experimentam. Universidades e institutos de pesquisa, especialmente Fiocruz, UFMG e USP, têm grupos estabelecidos nesse campo.
+
+A pergunta central deste projeto — como as políticas nacionais se materializam no cotidiano de uma UBS — não é nova.
+
+O que este projeto não replica é o nível de granularidade normativa: não "a UBS cumpre a PNAB?" mas "qual artigo, qual inciso, qual item do Anexo ampara cada ação específica observada — e esse dispositivo está vigente?". Os instrumentos avaliativos consolidados medem atributos e experiências; este projeto mapeia a ancoragem normativa precisa de práticas observadas, com rastreabilidade até a fonte primária e verificação ativa de vigência.
+
+A utilidade disso não é substituir avaliações robustas de APS. É oferecer algo diferente: um instrumento de mediação entre a norma e quem trabalha na ponta — gestores municipais que precisam documentar práticas, equipes que desconhecem o respaldo legal do que fazem, estudantes aprendendo a ler políticas públicas. E, com o processo aqui descrito, algo que qualquer pessoa com um relatório de campo consegue replicar sem ser especialista em direito sanitário.
+
+A eventual contribuição acadêmica está menos na originalidade da pergunta e mais na acessibilidade e reprodutibilidade do processo — especialmente com o uso de IA como ferramenta de sistematização auditável.
 
 ---
 
