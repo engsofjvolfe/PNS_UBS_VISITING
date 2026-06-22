@@ -14,35 +14,36 @@ Repositório dos textos primários de todos os dispositivos normativos citados n
 
 ## Sumário por instrumento
 
-| # | Instrumento | Status | Âncoras dos dispositivos |
-|---|---|---|---|
-| 1 | PNAB — Portaria GM/MS nº 2.436/2017 | [vigente] | [art2-cap](#pnab-art2-cap) · [art2-par1](#pnab-art2-par1) · [art2-par2](#pnab-art2-par2) · [art3](#pnab-art3) · [art4](#pnab-art4) · [art5](#pnab-art5) · [art6](#pnab-art6) · [art7-x](#pnab-art7-x) · [art10-vi](#pnab-art10-vi) · [art10-xiv](#pnab-art10-xiv) · [anx-11](#pnab-anx-11) · [anx-12](#pnab-anx-12) · [anx-33](#pnab-anx-33) · [anx-33-i](#pnab-anx-33-i) · [anx-34-esf](#pnab-anx-34-esf) · [anx-34-esb](#pnab-anx-34-esb) · [anx-34-nasf](#pnab-anx-34-nasf) · [anx-41-xxvi](#pnab-anx-41-xxvi) · [anx-422-iii](#pnab-anx-422-iii) · [anx-426-b](#pnab-anx-426-b) · [anx-5-vi](#pnab-anx-5-vi) |
-| 2 | Financiamento APS — Portaria GM/MS nº 3.493/2024 | [vigente] [atualizado] | [comp-fixo](#prt3493-comp-fixo) · [comp-vinculo](#prt3493-comp-vinculo) · [comp-qualidade](#prt3493-comp-qualidade) |
-| 3 | eMulti — Portaria GM/MS nº 635/2023 | [vigente] | [art1](#emulti-art1) · [art3](#emulti-art3) · [art4-anxi](#emulti-art4-anxi) |
-| 4 | PNSB — Portaria GM/MS nº 1.444/2000 + 267/2001 + Documento 2004 | [vigente — ver nota] | [prt1444-art1](#pnsb-prt1444-art1) · [prt267-anx](#pnsb-prt267-anx) · [doc2004-s33](#pnsb-doc2004-s33) · [doc2004-s34](#pnsb-doc2004-s34) · [doc2004-s62](#pnsb-doc2004-s62) |
-| 5 | PNPS — Portaria GM/MS nº 2.446/2014 | [via consolidação — PRC 2/2017, Anexo I] | [art2](#pnps-art2) · [art5-vii](#pnps-art5-vii) · [art10-i](#pnps-art10-i) · [art10-iii](#pnps-art10-iii) · [art10-iv](#pnps-art10-iv) |
-| 6 | PNEPS — Portaria GM/MS nº 2.761/2013 | [via consolidação — PRC 2/2017, Anexo V] | [art1](#pneps-art1) · [art2](#pneps-art2) |
-| 7 | PNH/HumanizaSUS — MS, 2003 | [vigente — documento programático] | [acolhimento](#pnh-acolhimento) · [clinica-ampliada](#pnh-clinica-ampliada) · [ref-apoio-matricial](#pnh-ref-apoio-matricial) |
-| 8 | PNSPI — Portaria GM/MS nº 2.528/2006 | [vigente] | [anx-s3-a](#pnspi-anx-s3-a) · [anx-s31-g](#pnspi-anx-s31-g) · [anx-s31-h](#pnspi-anx-s31-h) · [anx-s31-i](#pnspi-anx-s31-i) · [anx-s3-b](#pnspi-anx-s3-b) · [anx-s3-c](#pnspi-anx-s3-c) |
-| 9 | PNAISC — Portaria GM/MS nº 1.130/2015 | [via consolidação — PRC 2/2017, Anexo X] | [art2](#pnaisc-art2) · [art6-ei](#pnaisc-art6-ei) · [art6-eiii](#pnaisc-art6-eiii) · [art14](#pnaisc-art14) |
-| 10 | PNTN — Portaria GM/MS nº 822/2001 | [via consolidação — PRC 5/2017, Art. 142+] [atualizado — Portaria 7.293/2025] | [art1](#pntn-art1) · [anx-ubs](#pntn-anx-ubs) · [prt7293](#pntn-prt7293) |
-| 11 | Rede Cegonha — Portaria GM/MS nº 1.459/2011 | [via consolidação — PRC 3/2017, Anexo II] | [art4-i](#cegonha-art4-i) · [art7-i-a](#cegonha-art7-i-a) · [art7-iii-b](#cegonha-art7-iii-b) |
-| 12 | RAPS — Portaria GM/MS nº 3.088/2011 | [via consolidação — PRC 3/2017, Anexo V] | [art1](#raps-art1) · [art5-i-a](#raps-art5-i-a) · [art6-i-par1](#raps-art6-i-par1) · [art6-par2](#raps-art6-par2) |
-| 13 | DCNT — Portaria GM/MS nº 483/2014 | [via consolidação — PRC 3/2017] | [art1](#dcnt-art1) · [art12](#dcnt-art12) |
-| 14 | Hanseníase — Portaria GM/MS nº 149/2016 | [via consolidação — PRC 2/2017, Anexo VI] | [art1](#hans-art1) · [art2](#hans-art2) · [preambulo](#hans-preambulo) |
-| 15 | Tuberculose — Portaria GM/MS nº 154/2022 + Portaria nº 264/2020 | [vigente] | [prt154](#tb-prt154) · [prt264](#tb-prt264) |
-| 16 | PNAN — Portaria GM/MS nº 2.715/2011 | [via consolidação — PRC 2/2017, Anexo III] | [vig-alimentar](#pnan-vig-alimentar) |
-| 17 | PNI — Lei nº 6.259/1975 + Decreto nº 78.231/1976 | [vigente] | [lei6259-art3](#pni-lei6259-art3) · [dec78231-art27](#pni-dec78231-art27) |
+| # | Instrumento | Status | Âncora da seção | Âncoras dos dispositivos |
+|---|---|---|---|---|
+| 1 | PNAB — Portaria GM/MS nº 2.436/2017 | [vigente] | [§1](#dispositivos-pnab) | [art2-cap](#pnab-art2-cap) · [art2-par1](#pnab-art2-par1) · [art2-par2](#pnab-art2-par2) · [art3](#pnab-art3) · [art4](#pnab-art4) · [art5](#pnab-art5) · [art6](#pnab-art6) · [art7-x](#pnab-art7-x) · [art10-vi](#pnab-art10-vi) · [art10-xiv](#pnab-art10-xiv) · [anx-11](#pnab-anx-11) · [anx-12](#pnab-anx-12) · [anx-33](#pnab-anx-33) · [anx-33-i](#pnab-anx-33-i) · [anx-34-esf](#pnab-anx-34-esf) · [anx-34-esb](#pnab-anx-34-esb) · [anx-34-nasf](#pnab-anx-34-nasf) · [anx-41-xxvi](#pnab-anx-41-xxvi) · [anx-422-iii](#pnab-anx-422-iii) · [anx-426-b](#pnab-anx-426-b) · [anx-5-vi](#pnab-anx-5-vi) |
+| 2 | Financiamento APS — Portaria GM/MS nº 3.493/2024 | [vigente] [atualizado] | [§2](#dispositivos-financiamento) | [comp-fixo](#prt3493-comp-fixo) · [comp-vinculo](#prt3493-comp-vinculo) · [comp-qualidade](#prt3493-comp-qualidade) |
+| 3 | eMulti — Portaria GM/MS nº 635/2023 | [vigente] | [§3](#dispositivos-emulti) | [art1](#emulti-art1) · [art3](#emulti-art3) · [art4-anxi](#emulti-art4-anxi) |
+| 4 | PNSB — Portaria GM/MS nº 1.444/2000 + 267/2001 + Documento 2004 | [vigente — ver nota] | [§4](#dispositivos-pnsb) | [prt1444-art1](#pnsb-prt1444-art1) · [prt267-anx](#pnsb-prt267-anx) · [doc2004-s33](#pnsb-doc2004-s33) · [doc2004-s34](#pnsb-doc2004-s34) · [doc2004-s62](#pnsb-doc2004-s62) |
+| 5 | PNPS — Portaria GM/MS nº 2.446/2014 | [via consolidação — PRC 2/2017, Anexo I] | [§5](#dispositivos-pnps) | [art2](#pnps-art2) · [art5-vii](#pnps-art5-vii) · [art10-i](#pnps-art10-i) · [art10-iii](#pnps-art10-iii) · [art10-iv](#pnps-art10-iv) |
+| 6 | PNEPS — Portaria GM/MS nº 2.761/2013 | [via consolidação — PRC 2/2017, Anexo V] | [§6](#dispositivos-pneps) | [art1](#pneps-art1) · [art2](#pneps-art2) |
+| 7 | PNH/HumanizaSUS — MS, 2003 | [vigente — documento programático] | [§7](#dispositivos-pnh) | [acolhimento](#pnh-acolhimento) · [clinica-ampliada](#pnh-clinica-ampliada) · [ref-apoio-matricial](#pnh-ref-apoio-matricial) |
+| 8 | PNSPI — Portaria GM/MS nº 2.528/2006 | [vigente] | [§8](#dispositivos-pnspi) | [anx-s3-a](#pnspi-anx-s3-a) · [anx-s31-g](#pnspi-anx-s31-g) · [anx-s31-h](#pnspi-anx-s31-h) · [anx-s31-i](#pnspi-anx-s31-i) · [anx-s3-b](#pnspi-anx-s3-b) · [anx-s3-c](#pnspi-anx-s3-c) |
+| 9 | PNAISC — Portaria GM/MS nº 1.130/2015 | [via consolidação — PRC 2/2017, Anexo X] | [§9](#dispositivos-pnaisc) | [art2](#pnaisc-art2) · [art6-ei](#pnaisc-art6-ei) · [art6-eiii](#pnaisc-art6-eiii) · [art14](#pnaisc-art14) |
+| 10 | PNTN — Portaria GM/MS nº 822/2001 | [via consolidação — PRC 5/2017, Art. 142+] [atualizado — Portaria 7.293/2025] | [§10](#dispositivos-pntn) | [art1](#pntn-art1) · [anx-ubs](#pntn-anx-ubs) · [prt7293](#pntn-prt7293) |
+| 11 | Rede Cegonha — Portaria GM/MS nº 1.459/2011 | [via consolidação — PRC 3/2017, Anexo II] | [§11](#dispositivos-cegonha) | [art4-i](#cegonha-art4-i) · [art7-i-a](#cegonha-art7-i-a) · [art7-iii-b](#cegonha-art7-iii-b) |
+| 12 | RAPS — Portaria GM/MS nº 3.088/2011 | [via consolidação — PRC 3/2017, Anexo V] | [§12](#dispositivos-raps) | [art1](#raps-art1) · [art5-i-a](#raps-art5-i-a) · [art6-i-par1](#raps-art6-i-par1) · [art6-par2](#raps-art6-par2) |
+| 13 | DCNT — Portaria GM/MS nº 483/2014 | [via consolidação — PRC 3/2017] | [§13](#dispositivos-dcnt) | [art1](#dcnt-art1) · [art12](#dcnt-art12) |
+| 14 | Hanseníase — Portaria GM/MS nº 149/2016 | [via consolidação — PRC 2/2017, Anexo VI] | [§14](#dispositivos-hanseniase) | [art1](#hans-art1) · [art2](#hans-art2) · [preambulo](#hans-preambulo) |
+| 15 | Tuberculose — Portaria GM/MS nº 154/2022 + Portaria nº 264/2020 | [vigente] | [§15](#dispositivos-tuberculose) | [prt154](#tb-prt154) · [prt264](#tb-prt264) |
+| 16 | PNAN — Portaria GM/MS nº 2.715/2011 | [via consolidação — PRC 2/2017, Anexo III] | [§16](#dispositivos-pnan) | [vig-alimentar](#pnan-vig-alimentar) |
+| 17 | PNI — Lei nº 6.259/1975 + Decreto nº 78.231/1976 | [vigente] | [§17](#dispositivos-pni) | [lei6259-art3](#pni-lei6259-art3) · [dec78231-art27](#pni-dec78231-art27) |
 
 ---
 
+<a id="dispositivos-pnab"></a>
 ## 1. PNAB — Portaria GM/MS nº 2.436, de 21 de setembro de 2017
 
 **Instrumento**: Portaria GM/MS nº 2.436/2017 | **Status**: [vigente] | **Consolidação**: Anexo XXII da Portaria de Consolidação nº 2/GM/MS/2017
 
 **Fonte oficial**: [bvsms.saude.gov.br — Portaria 2.436/2017](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prt2436_22_09_2017.html)
 
-**Referências no projeto**: [Prática e Norma](pratica_e_norma.md) · [Políticas Nacionais §1](politicas_nacionais.md#1-política-nacional-de-atenção-básica--pnab)
+**Referências no projeto**: [Prática e Norma §1](pratica_e_norma.md#pn-s1) · [Prática e Norma §2](pratica_e_norma.md#pn-s2) · [Prática e Norma §3](pratica_e_norma.md#pn-s3) · [Prática e Norma §5](pratica_e_norma.md#pn-s5) · [Políticas Nacionais §1](politicas_nacionais.md#pol-pnab) · **Relatório**: [§1 Contexto](relatorio.md#r-contexto) · [§2 Equipe](relatorio.md#r-equipe) · [§3 Serviços](relatorio.md#r-servicos) · [§4 Desafios](relatorio.md#r-desafios)
 
 ---
 
@@ -217,6 +218,7 @@ Repositório dos textos primários de todos os dispositivos normativos citados n
 
 ---
 
+<a id="dispositivos-financiamento"></a>
 ## 2. Financiamento APS — Portaria GM/MS nº 3.493, de 10 de abril de 2024
 
 **Instrumento**: Portaria GM/MS nº 3.493/2024 | **Status**: [vigente] — efeitos financeiros desde parcela de maio/2024
@@ -226,7 +228,7 @@ Repositório dos textos primários de todos os dispositivos normativos citados n
 **Fonte oficial (Portaria 3.493/2024)**: [bvsms.saude.gov.br — Portaria 3.493/2024](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2024/prt3493_11_04_2024.html)
 **Fonte oficial (Portaria 6.907/2025)**: [bvsms.saude.gov.br — Portaria 6.907/2025](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2025/prt6907_08_05_2025.html)
 
-**Referências no projeto**: [Prática e Norma §7](pratica_e_norma.md#7-o-financiamento-vinculado-ao-desempenho--modelo-vigente-em-2026) · [Políticas Nacionais §2](politicas_nacionais.md#2-financiamento-federal-da-aps--modelo-vigente-desde-maio2024)
+**Referências no projeto**: [Prática e Norma §7](pratica_e_norma.md#pn-s7) · [Políticas Nacionais §2](politicas_nacionais.md#pol-financiamento) · **Relatório**: [§5 Avanços](relatorio.md#r-avancos) · [§3 Serviços](relatorio.md#r-servicos)
 
 ---
 
@@ -272,6 +274,7 @@ Classificação: Regular (R$ 2 mil), Suficiente (R$ 4 mil), Bom (R$ 6 mil), Óti
 
 ---
 
+<a id="dispositivos-emulti"></a>
 ## 3. eMulti — Portaria GM/MS nº 635, de 22 de maio de 2023
 
 **Instrumento**: Portaria GM/MS nº 635/2023 | **Status**: [vigente]
@@ -279,7 +282,7 @@ Classificação: Regular (R$ 2 mil), Suficiente (R$ 4 mil), Bom (R$ 6 mil), Óti
 
 **Fonte oficial**: [bvsms.saude.gov.br — Portaria 635/2023](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2023/prt0635_22_05_2023.html)
 
-**Referências no projeto**: [Prática e Norma §2](pratica_e_norma.md#2-a-equipe-quem-trabalha-ali-e-o-que-a-norma-diz-sobre-cada-profissional) · [Políticas Nacionais §2-A](politicas_nacionais.md#2-a-equipes-multiprofissionais-na-aps--emulti)
+**Referências no projeto**: [Prática e Norma §2](pratica_e_norma.md#pn-s2) · [Políticas Nacionais §2-A](politicas_nacionais.md#pol-emulti) · **Relatório**: [§2 Equipe](relatorio.md#r-equipe) · [§4 Dimensionamento social](relatorio.md#r-equipe-social)
 
 ---
 
@@ -310,6 +313,7 @@ O Anexo I lista as categorias elegíveis, entre elas: Assistente Social, Fisiote
 
 ---
 
+<a id="dispositivos-pnsb"></a>
 ## 4. PNSB — Política Nacional de Saúde Bucal / Brasil Sorridente
 
 **Instrumentos**: Portaria GM/MS nº 1.444/2000 + Portaria GM/MS nº 267/2001 + Documento MS "Diretrizes da Política Nacional de Saúde Bucal" (2004)
@@ -321,7 +325,7 @@ O Anexo I lista as categorias elegíveis, entre elas: Assistente Social, Fisiote
 **Fonte oficial (Portaria 267/2001)**: [documentos.mpsc.mp.br — Portaria 267/2001](https://documentos.mpsc.mp.br/portal/conteudo/cao/ccf/quadro%20sinotico%20sus/Portaria%20GM%20267-01%20-%20Normas%20e%20Diretrizes%20da%20Saude%20Bucal.pdf)
 **Fonte oficial (Documento 2004)**: [bvsms.saude.gov.br — Diretrizes da PNSB](https://bvsms.saude.gov.br/bvs/publicacoes/politica_nacional_brasil_sorridente.pdf)
 
-**Referências no projeto**: [Prática e Norma §3](pratica_e_norma.md#3-serviços-o-que-a-ubs-faz-e-o-que-a-lei-diz-que-deve-fazer) · [Políticas Nacionais §3](politicas_nacionais.md#3-política-nacional-de-saúde-bucal-pnsb--brasil-sorridente)
+**Referências no projeto**: [Prática e Norma §3](pratica_e_norma.md#pn-s3) · [Políticas Nacionais §3](politicas_nacionais.md#pol-pnsb) · **Relatório**: [§3 Saúde bucal](relatorio.md#r-saude-bucal)
 
 ---
 
@@ -370,13 +374,14 @@ O Anexo I lista as categorias elegíveis, entre elas: Assistente Social, Fisiote
 
 ---
 
+<a id="dispositivos-pnps"></a>
 ## 5. PNPS — Portaria GM/MS nº 2.446, de 11 de novembro de 2014
 
 **Instrumento**: Portaria GM/MS nº 2.446/2014 | **Status**: [via consolidação — revogada por consolidação, PRC 2/2017, Art. 9º, item I — conteúdo intacto no Anexo I]
 
 **Fonte oficial (texto consolidado via matriz)**: [bvsms.saude.gov.br — Matriz PRC 2/2017](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/MatrizesConsolidacao/Matriz-2-Politicas.html)
 
-**Referências no projeto**: [Prática e Norma §3](pratica_e_norma.md#3-serviços-o-que-a-ubs-faz-e-o-que-a-lei-diz-que-deve-fazer) · [Políticas Nacionais §4](politicas_nacionais.md#4-política-nacional-de-promoção-da-saúde--pnps)
+**Referências no projeto**: [Prática e Norma §3](pratica_e_norma.md#pn-s3) · [Políticas Nacionais §4](politicas_nacionais.md#pol-pnps) · **Relatório**: [§3 Saúde do idoso](relatorio.md#r-saude-idoso) · [§3 Vigilância — tabagismo](relatorio.md#r-vigilancia) · [§3 Ações comunitárias](relatorio.md#r-acoes-comunitarias)
 
 ---
 
@@ -415,13 +420,14 @@ O Anexo I lista as categorias elegíveis, entre elas: Assistente Social, Fisiote
 
 ---
 
+<a id="dispositivos-pneps"></a>
 ## 6. PNEPS — Portaria GM/MS nº 2.761, de 19 de novembro de 2013
 
 **Instrumento**: Portaria GM/MS nº 2.761/2013 | **Status**: [via consolidação — revogada por consolidação, PRC 2/2017, Art. 9º, item XI — conteúdo intacto no Anexo V]
 
 **Fonte oficial (texto consolidado via matriz)**: [bvsms.saude.gov.br — Matriz PNEPS](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/MatrizesConsolidacao/comum/13151.html)
 
-**Referências no projeto**: [Prática e Norma §3](pratica_e_norma.md#3-serviços-o-que-a-ubs-faz-e-o-que-a-lei-diz-que-deve-fazer) · [Políticas Nacionais §5](politicas_nacionais.md#5-política-nacional-de-educação-popular-em-saúde--pneps-sus)
+**Referências no projeto**: [Prática e Norma §3](pratica_e_norma.md#pn-s3) · [Políticas Nacionais §5](politicas_nacionais.md#pol-pneps) · **Relatório**: [§3 Saúde bucal — escovário](relatorio.md#r-saude-bucal) · [§3 Ações comunitárias](relatorio.md#r-acoes-comunitarias)
 
 ---
 
@@ -439,6 +445,7 @@ O Anexo I lista as categorias elegíveis, entre elas: Assistente Social, Fisiote
 
 ---
 
+<a id="dispositivos-pnh"></a>
 ## 7. PNH/HumanizaSUS — Ministério da Saúde, 2003
 
 **Instrumento**: Política Nacional de Humanização — documento programático do MS (sem portaria instituidora única com artigos)
@@ -446,7 +453,7 @@ O Anexo I lista as categorias elegíveis, entre elas: Assistente Social, Fisiote
 
 **Fonte oficial**: [bvsms.saude.gov.br — PNH](https://bvsms.saude.gov.br/bvs/publicacoes/humanizasus_2004.pdf)
 
-**Referências no projeto**: [Prática e Norma §3](pratica_e_norma.md#3-serviços-o-que-a-ubs-faz-e-o-que-a-lei-diz-que-deve-fazer) · [Políticas Nacionais §6](politicas_nacionais.md#6-política-nacional-de-humanização--pnhhmanizasus)
+**Referências no projeto**: [Prática e Norma §3](pratica_e_norma.md#pn-s3) · [Políticas Nacionais §6](politicas_nacionais.md#pol-pnh) · **Relatório**: [§3 Atenção básica geral — acolhimento](relatorio.md#r-atencao-basica)
 
 ---
 
@@ -477,13 +484,14 @@ O Anexo I lista as categorias elegíveis, entre elas: Assistente Social, Fisiote
 
 ---
 
+<a id="dispositivos-pnspi"></a>
 ## 8. PNSPI — Portaria GM/MS nº 2.528, de 19 de outubro de 2006
 
 **Instrumento**: Portaria GM/MS nº 2.528/2006 | **Status**: [vigente — sem revogação identificada]
 
 **Fonte oficial**: [bvsms.saude.gov.br — Portaria 2.528/2006](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2006/prt2528_19_10_2006.html)
 
-**Referências no projeto**: [Prática e Norma §3](pratica_e_norma.md#3-serviços-o-que-a-ubs-faz-e-o-que-a-lei-diz-que-deve-fazer) · [Políticas Nacionais §7](politicas_nacionais.md#7-política-nacional-de-saúde-da-pessoa-idosa--pnspi)
+**Referências no projeto**: [Prática e Norma §3](pratica_e_norma.md#pn-s3) · [Políticas Nacionais §7](politicas_nacionais.md#pol-pnspi) · **Relatório**: [§3 Saúde do idoso](relatorio.md#r-saude-idoso)
 
 ---
 
@@ -533,13 +541,14 @@ O Anexo I lista as categorias elegíveis, entre elas: Assistente Social, Fisiote
 
 ---
 
+<a id="dispositivos-pnaisc"></a>
 ## 9. PNAISC — Portaria GM/MS nº 1.130, de 5 de agosto de 2015
 
 **Instrumento**: Portaria GM/MS nº 1.130/2015 | **Status**: [via consolidação — revogada por consolidação, PRC 2/2017, Art. 9º, item XX — conteúdo intacto no Anexo X]
 
 **Fonte oficial (texto consolidado via matriz)**: [bvsms.saude.gov.br — Matriz PNAISC](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/MatrizesConsolidacao/comum/13148.html)
 
-**Referências no projeto**: [Prática e Norma §3](pratica_e_norma.md#3-serviços-o-que-a-ubs-faz-e-o-que-a-lei-diz-que-deve-fazer) · [Políticas Nacionais §8](politicas_nacionais.md#8-política-nacional-de-atenção-integral-à-saúde-da-criança--pnaisc)
+**Referências no projeto**: [Prática e Norma §3](pratica_e_norma.md#pn-s3) · [Políticas Nacionais §8](politicas_nacionais.md#pol-pnaisc) · **Relatório**: [§3 Saúde da mulher e materno-infantil](relatorio.md#r-materno-infantil)
 
 ---
 
@@ -571,6 +580,7 @@ O Anexo I lista as categorias elegíveis, entre elas: Assistente Social, Fisiote
 
 ---
 
+<a id="dispositivos-pntn"></a>
 ## 10. PNTN — Portaria GM/MS nº 822, de 6 de junho de 2001
 
 **Instrumento**: Portaria GM/MS nº 822/2001 | **Status**: [via consolidação — PRC 5/2017, Art. 142 e ss.] [atualizado — Portaria GM/MS nº 7.293/2025]
@@ -578,7 +588,7 @@ O Anexo I lista as categorias elegíveis, entre elas: Assistente Social, Fisiote
 **Fonte oficial (texto consolidado — PRC 5/2017)**: [bvsms.saude.gov.br — PRC 5/2017](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prc0005_03_10_2017.html)
 **Fonte oficial (Portaria 7.293/2025)**: [bvsms.saude.gov.br — Portaria 7.293/2025](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2025/prt7293_27_06_2025.html)
 
-**Referências no projeto**: [Prática e Norma §3](pratica_e_norma.md#3-serviços-o-que-a-ubs-faz-e-o-que-a-lei-diz-que-deve-fazer) · [Políticas Nacionais §9](politicas_nacionais.md#9-programa-nacional-de-triagem-neonatal--pntn)
+**Referências no projeto**: [Prática e Norma §3](pratica_e_norma.md#pn-s3) · [Políticas Nacionais §9](politicas_nacionais.md#pol-pntn) · **Relatório**: [§3 Saúde da mulher — teste do pezinho](relatorio.md#r-materno-infantil)
 
 ---
 
@@ -609,13 +619,14 @@ Principais mudanças trazidas pela Portaria 7.293/2025: (a) regulamenta a amplia
 
 ---
 
+<a id="dispositivos-cegonha"></a>
 ## 11. Rede Cegonha — Portaria GM/MS nº 1.459, de 24 de junho de 2011
 
 **Instrumento**: Portaria GM/MS nº 1.459/2011 | **Status**: [via consolidação — arts. 1–9 e 12 revogados por consolidação, PRC 3/2017, Art. 6º, item II — conteúdo intacto no Anexo II (RAMI)]
 
 **Fonte oficial (texto consolidado via matriz)**: [bvsms.saude.gov.br — PRC 3/2017](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prc0003_03_10_2017.html)
 
-**Referências no projeto**: [Prática e Norma §3](pratica_e_norma.md#3-serviços-o-que-a-ubs-faz-e-o-que-a-lei-diz-que-deve-fazer) · [Políticas Nacionais §10](politicas_nacionais.md#10-rede-cegonha--atenção-materna-e-infantil)
+**Referências no projeto**: [Prática e Norma §3](pratica_e_norma.md#pn-s3) · [Políticas Nacionais §10](politicas_nacionais.md#pol-cegonha) · **Relatório**: [§3 Saúde da mulher e materno-infantil](relatorio.md#r-materno-infantil) · [§3 Visitas domiciliares](relatorio.md#r-visitas)
 
 ---
 
@@ -640,13 +651,14 @@ Principais mudanças trazidas pela Portaria 7.293/2025: (a) regulamenta a amplia
 
 ---
 
+<a id="dispositivos-raps"></a>
 ## 12. RAPS — Portaria GM/MS nº 3.088, de 23 de dezembro de 2011
 
 **Instrumento**: Portaria GM/MS nº 3.088/2011 | **Status**: [via consolidação — revogada por consolidação, PRC 3/2017, Art. 6º, item XXXIV — conteúdo intacto no Anexo V]
 
 **Fonte oficial (texto consolidado via matriz)**: [bvsms.saude.gov.br — Matriz RAPS](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/MatrizesConsolidacao/comum/13163.html)
 
-**Referências no projeto**: [Prática e Norma §3](pratica_e_norma.md#3-serviços-o-que-a-ubs-faz-e-o-que-a-lei-diz-que-deve-fazer) · [Políticas Nacionais §11](politicas_nacionais.md#11-rede-de-atenção-psicossocial--raps)
+**Referências no projeto**: [Prática e Norma §3](pratica_e_norma.md#pn-s3) · [Políticas Nacionais §11](politicas_nacionais.md#pol-raps) · **Relatório**: [§3 Saúde mental](relatorio.md#r-saude-mental)
 
 ---
 
@@ -680,13 +692,14 @@ Principais mudanças trazidas pela Portaria 7.293/2025: (a) regulamenta a amplia
 
 ---
 
+<a id="dispositivos-dcnt"></a>
 ## 13. DCNT — Portaria GM/MS nº 483, de 1º de abril de 2014
 
 **Instrumento**: Portaria GM/MS nº 483/2014 | **Status**: [via consolidação — revogada por consolidação, PRC 3/2017, Art. 6º, item XXVI — conteúdo intacto]
 
 **Fonte oficial**: [bvsms.saude.gov.br — Portaria 483/2014](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2014/prt0483_01_04_2014.html)
 
-**Referências no projeto**: [Prática e Norma §3](pratica_e_norma.md#3-serviços-o-que-a-ubs-faz-e-o-que-a-lei-diz-que-deve-fazer) · [Políticas Nacionais §12](politicas_nacionais.md#12-rede-de-atenção-à-saúde-das-pessoas-com-doenças-crônicas)
+**Referências no projeto**: [Prática e Norma §3](pratica_e_norma.md#pn-s3) · [Políticas Nacionais §12](politicas_nacionais.md#pol-dcnt) · **Relatório**: [§3 Doenças crônicas](relatorio.md#r-doencas-cronicas) · [§4 Acesso especializado](relatorio.md#r-especializada)
 
 ---
 
@@ -704,6 +717,7 @@ Principais mudanças trazidas pela Portaria 7.293/2025: (a) regulamenta a amplia
 
 ---
 
+<a id="dispositivos-hanseniase"></a>
 ## 14. Hanseníase — Portaria GM/MS nº 149, de 3 de fevereiro de 2016
 
 **Instrumento**: Portaria GM/MS nº 149/2016 | **Status**: [via consolidação — revogada por consolidação, PRC 2/2017, Art. 9º, item XIII — conteúdo intacto no Anexo VI]
@@ -711,7 +725,7 @@ Principais mudanças trazidas pela Portaria 7.293/2025: (a) regulamenta a amplia
 
 **Fonte oficial (texto consolidado via matriz PRC 2/2017)**: [bvsms.saude.gov.br — PRC 2/2017](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prc0002_03_10_2017.html)
 
-**Referências no projeto**: [Prática e Norma §3](pratica_e_norma.md#3-serviços-o-que-a-ubs-faz-e-o-que-a-lei-diz-que-deve-fazer) · [Políticas Nacionais §13](politicas_nacionais.md#13-diretrizes-para-vigilância-atenção-e-eliminação-da-hanseníase)
+**Referências no projeto**: [Prática e Norma §3](pratica_e_norma.md#pn-s3) · [Políticas Nacionais §13](politicas_nacionais.md#pol-hanseniase) · **Relatório**: [§3 Vigilância em saúde — hanseníase](relatorio.md#r-vigilancia)
 
 ---
 
@@ -736,7 +750,10 @@ Principais mudanças trazidas pela Portaria 7.293/2025: (a) regulamenta a amplia
 
 ---
 
+<a id="dispositivos-tuberculose"></a>
 ## 15. Tuberculose
+
+> **Referências no projeto**: [Prática e Norma §3](pratica_e_norma.md#pn-s3) · [Políticas Nacionais §14](politicas_nacionais.md#pol-tuberculose) · **Relatório**: [§3 Vigilância em saúde — tuberculose](relatorio.md#r-vigilancia)
 
 ### Portaria GM/MS nº 154, de 26 de janeiro de 2022
 
@@ -762,13 +779,14 @@ Principais mudanças trazidas pela Portaria 7.293/2025: (a) regulamenta a amplia
 
 ---
 
+<a id="dispositivos-pnan"></a>
 ## 16. PNAN — Portaria GM/MS nº 2.715, de 17 de novembro de 2011
 
 **Instrumento**: Portaria GM/MS nº 2.715/2011 | **Status**: [via consolidação — revogada por consolidação, PRC 2/2017, Art. 9º, item V — conteúdo intacto no Anexo III]
 
 **Fonte oficial**: [bvsms.saude.gov.br — PRC 2/2017, Anexo III](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/MatrizesConsolidacao/Matriz-2-Politicas.html)
 
-**Referências no projeto**: [Políticas Nacionais §16](politicas_nacionais.md#16-política-nacional-de-alimentação-e-nutrição--pnan)
+**Referências no projeto**: [Prática e Norma §3](pratica_e_norma.md#pn-s3) · [Políticas Nacionais §16](politicas_nacionais.md#pol-pnan) · **Relatório**: [§3 Programas sociais](relatorio.md#r-programas-sociais)
 
 ---
 
@@ -781,6 +799,7 @@ Principais mudanças trazidas pela Portaria 7.293/2025: (a) regulamenta a amplia
 
 ---
 
+<a id="dispositivos-pni"></a>
 ## 17. PNI — Lei nº 6.259/1975 + Decreto nº 78.231/1976
 
 **Status**: [vigente — instrumentos legais federais em vigor]
@@ -788,7 +807,7 @@ Principais mudanças trazidas pela Portaria 7.293/2025: (a) regulamenta a amplia
 **Fonte oficial (Lei 6.259/1975)**: [planalto.gov.br — Lei 6.259/1975](http://www.planalto.gov.br/ccivil_03/leis/L6259.htm)
 **Fonte oficial (Decreto 78.231/1976)**: [planalto.gov.br — Decreto 78.231/1976](http://www.planalto.gov.br/ccivil_03/decreto/D78231.htm)
 
-**Referências no projeto**: [Prática e Norma §3](pratica_e_norma.md#3-serviços-o-que-a-ubs-faz-e-o-que-a-lei-diz-que-deve-fazer) · [Políticas Nacionais §17](politicas_nacionais.md#17-programa-nacional-de-imunizações--pni)
+**Referências no projeto**: [Prática e Norma §3](pratica_e_norma.md#pn-s3) · [Políticas Nacionais §17](politicas_nacionais.md#pol-pni) · **Relatório**: [§3 Atenção básica — vacinação](relatorio.md#r-atencao-basica) · [§3 Ações comunitárias](relatorio.md#r-acoes-comunitarias)
 
 ---
 

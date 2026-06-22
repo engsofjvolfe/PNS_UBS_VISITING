@@ -16,15 +16,18 @@ Este repositório responde a essa pergunta para a UBS Lázaro Moreno. Mas a estr
 
 ## Arquitetura dos documentos
 
-```mermaid
-graph TD
-    A["relatorio.md — Observação de campo"] -->|origina| B["pratica_e_norma.md — Correlação prática e norma"]
-    A -->|origina| C["politicas_nacionais.md — Índice normativo"]
-    B -->|cita| D["dispositivos.md — Textos primários verificados"]
-    C -->|cita| D
-    D -->|retrolink| B
-    D -->|retrolink| C
 ```
+relatorio.md  (Observação de campo)
+    |
+    +--origina--> pratica_e_norma.md  --cita--> dispositivos.md
+    |             (Correlação prática e norma)   (Textos primários)
+    |                        ^           <--retrolink--+
+    |                        |
+    +--origina--> politicas_nacionais.md --cita--> dispositivos.md
+                  (Índice normativo)      <--retrolink--+
+```
+
+Todos os links são bidirecionais: cada documento referencia os outros via âncoras explícitas `<a id="...">` que funcionam em qualquer renderizador Markdown compatível com CommonMark.
 
 | Arquivo | Papel | Lê antes de... |
 |---|---|---|
@@ -77,25 +80,25 @@ Os documentos analíticos (`pratica_e_norma.md` e `politicas_nacionais.md`) apen
 
 ## Instrumentos mapeados
 
-| Instrumento | Status | Documento |
+| Instrumento | Status | Seção em dispositivos.md |
 |---|---|---|
-| PNAB — Portaria GM/MS nº 2.436/2017 | [vigente] | [dispositivos.md §1](dispositivos.md#1-pnab--portaria-gm/ms-nº-24362017) |
-| Financiamento APS — Portaria GM/MS nº 3.493/2024 | [vigente] [atualizado] | [dispositivos.md §2](dispositivos.md#2-financiamento-aps--portaria-gm/ms-nº-34932024) |
-| eMulti — Portaria GM/MS nº 635/2023 | [vigente] | [dispositivos.md §3](dispositivos.md#3-emulti--portaria-gm/ms-nº-6352023) |
-| PNSB — Portaria GM/MS nºs 1.444/2000 e 267/2001 + Documento 2004 | [vigente — ver nota] | [dispositivos.md §4](dispositivos.md#4-pnsb--política-nacional-de-saúde-bucal--brasil-sorridente) |
-| PNPS — Portaria GM/MS nº 2.446/2014 | [via consolidação — PRC 2/2017, Anexo I] | [dispositivos.md §5](dispositivos.md#5-pnps--portaria-gm/ms-nº-24462014) |
-| PNEPS — Portaria GM/MS nº 2.761/2013 | [via consolidação — PRC 2/2017, Anexo V] | [dispositivos.md §6](dispositivos.md#6-pneps--portaria-gm/ms-nº-27612013) |
-| PNH/HumanizaSUS — MS, 2003 | [vigente — documento programático] | [dispositivos.md §7](dispositivos.md#7-pnhhmanizasus--ministério-da-saúde-2003) |
-| PNSPI — Portaria GM/MS nº 2.528/2006 | [vigente] | [dispositivos.md §8](dispositivos.md#8-pnspi--portaria-gm/ms-nº-25282006) |
-| PNAISC — Portaria GM/MS nº 1.130/2015 | [via consolidação — PRC 2/2017, Anexo X] | [dispositivos.md §9](dispositivos.md#9-pnaisc--portaria-gm/ms-nº-11302015) |
-| PNTN — Portaria GM/MS nº 822/2001 | [via consolidação — PRC 5/2017] [atualizado — Portaria 7.293/2025] | [dispositivos.md §10](dispositivos.md#10-pntn--portaria-gm/ms-nº-8222001) |
-| Rede Cegonha — Portaria GM/MS nº 1.459/2011 | [via consolidação — PRC 3/2017, Anexo II] | [dispositivos.md §11](dispositivos.md#11-rede-cegonha--portaria-gm/ms-nº-14592011) |
-| RAPS — Portaria GM/MS nº 3.088/2011 | [via consolidação — PRC 3/2017, Anexo V] | [dispositivos.md §12](dispositivos.md#12-raps--portaria-gm/ms-nº-30882011) |
-| DCNT — Portaria GM/MS nº 483/2014 | [via consolidação — PRC 3/2017] | [dispositivos.md §13](dispositivos.md#13-dcnt--portaria-gm/ms-nº-4832014) |
-| Hanseníase — Portaria GM/MS nº 149/2016 | [via consolidação — PRC 2/2017, Anexo VI] | [dispositivos.md §14](dispositivos.md#14-hanseníase--portaria-gm/ms-nº-1492016) |
-| Tuberculose — Portaria GM/MS nº 154/2022 + 264/2020 | [vigente] | [dispositivos.md §15](dispositivos.md#15-tuberculose) |
-| PNAN — Portaria GM/MS nº 2.715/2011 | [via consolidação — PRC 2/2017, Anexo III] | [dispositivos.md §16](dispositivos.md#16-pnan--portaria-gm/ms-nº-27152011) |
-| PNI — Lei nº 6.259/1975 + Decreto nº 78.231/1976 | [vigente] | [dispositivos.md §17](dispositivos.md#17-pni--lei-nº-62591975--decreto-nº-782311976) |
+| PNAB — Portaria GM/MS nº 2.436/2017 | [vigente] | [dispositivos.md §1](dispositivos.md#dispositivos-pnab) |
+| Financiamento APS — Portaria GM/MS nº 3.493/2024 | [vigente] [atualizado] | [dispositivos.md §2](dispositivos.md#dispositivos-financiamento) |
+| eMulti — Portaria GM/MS nº 635/2023 | [vigente] | [dispositivos.md §3](dispositivos.md#dispositivos-emulti) |
+| PNSB — Portaria GM/MS nºs 1.444/2000 e 267/2001 + Documento 2004 | [vigente — ver nota] | [dispositivos.md §4](dispositivos.md#dispositivos-pnsb) |
+| PNPS — Portaria GM/MS nº 2.446/2014 | [via consolidação — PRC 2/2017, Anexo I] | [dispositivos.md §5](dispositivos.md#dispositivos-pnps) |
+| PNEPS — Portaria GM/MS nº 2.761/2013 | [via consolidação — PRC 2/2017, Anexo V] | [dispositivos.md §6](dispositivos.md#dispositivos-pneps) |
+| PNH/HumanizaSUS — MS, 2003 | [vigente — documento programático] | [dispositivos.md §7](dispositivos.md#dispositivos-pnh) |
+| PNSPI — Portaria GM/MS nº 2.528/2006 | [vigente] | [dispositivos.md §8](dispositivos.md#dispositivos-pnspi) |
+| PNAISC — Portaria GM/MS nº 1.130/2015 | [via consolidação — PRC 2/2017, Anexo X] | [dispositivos.md §9](dispositivos.md#dispositivos-pnaisc) |
+| PNTN — Portaria GM/MS nº 822/2001 | [via consolidação — PRC 5/2017] [atualizado — Portaria 7.293/2025] | [dispositivos.md §10](dispositivos.md#dispositivos-pntn) |
+| Rede Cegonha — Portaria GM/MS nº 1.459/2011 | [via consolidação — PRC 3/2017, Anexo II] | [dispositivos.md §11](dispositivos.md#dispositivos-cegonha) |
+| RAPS — Portaria GM/MS nº 3.088/2011 | [via consolidação — PRC 3/2017, Anexo V] | [dispositivos.md §12](dispositivos.md#dispositivos-raps) |
+| DCNT — Portaria GM/MS nº 483/2014 | [via consolidação — PRC 3/2017] | [dispositivos.md §13](dispositivos.md#dispositivos-dcnt) |
+| Hanseníase — Portaria GM/MS nº 149/2016 | [via consolidação — PRC 2/2017, Anexo VI] | [dispositivos.md §14](dispositivos.md#dispositivos-hanseniase) |
+| Tuberculose — Portaria GM/MS nº 154/2022 + 264/2020 | [vigente] | [dispositivos.md §15](dispositivos.md#dispositivos-tuberculose) |
+| PNAN — Portaria GM/MS nº 2.715/2011 | [via consolidação — PRC 2/2017, Anexo III] | [dispositivos.md §16](dispositivos.md#dispositivos-pnan) |
+| PNI — Lei nº 6.259/1975 + Decreto nº 78.231/1976 | [vigente] | [dispositivos.md §17](dispositivos.md#dispositivos-pni) |
 
 ---
 
@@ -115,7 +118,7 @@ Os dispositivos já mapeados em `dispositivos.md` são reutilizáveis entre unid
 ## Como atualizar quando uma portaria mudar
 
 1. Abra `dispositivos.md`
-2. Localize a seção do instrumento alterado
+2. Localize a seção do instrumento alterado (use o sumário por âncora ou a busca)
 3. Atualize o status e o texto do dispositivo
 4. Se o instrumento foi revogado e substituído, adicione a nova seção com novo anchor e marque o antigo como `[revogado em DD/MM/AAAA — substituído por ...]`
 5. Verifique se os links em `pratica_e_norma.md` e `politicas_nacionais.md` ainda apontam para o anchor correto
