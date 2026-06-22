@@ -11,6 +11,33 @@
 
 ---
 
+## Índice
+
+1. [Política Nacional de Atenção Básica — PNAB](#pol-pnab)
+   - [Corpo principal (artigos)](#pol-pnab-corpo)
+   - [Anexo (itens numerados)](#pol-pnab-anx)
+2. [Financiamento Federal da APS — Modelo Vigente desde maio/2024](#pol-financiamento)
+3. [Equipes Multiprofissionais na APS — eMulti](#pol-emulti)
+4. [Política Nacional de Saúde Bucal (PNSB) — Brasil Sorridente](#pol-pnsb)
+5. [Política Nacional de Promoção da Saúde — PNPS](#pol-pnps)
+6. [Política Nacional de Educação Popular em Saúde — PNEPS-SUS](#pol-pneps)
+7. [Política Nacional de Humanização — PNH/HumanizaSUS](#pol-pnh)
+8. [Política Nacional de Saúde da Pessoa Idosa — PNSPI](#pol-pnspi)
+9. [Política Nacional de Atenção Integral à Saúde da Criança — PNAISC](#pol-pnaisc)
+10. [Programa Nacional de Triagem Neonatal — PNTN](#pol-pntn)
+11. [Rede Cegonha — Atenção Materna e Infantil](#pol-cegonha)
+12. [Rede de Atenção Psicossocial — RAPS](#pol-raps)
+13. [Rede de Atenção à Saúde das Pessoas com Doenças Crônicas](#pol-dcnt)
+14. [Diretrizes para Vigilância, Atenção e Eliminação da Hanseníase](#pol-hanseniase)
+15. [Tuberculose](#pol-tuberculose)
+16. [Tabagismo](#pol-tabagismo)
+17. [Política Nacional de Alimentação e Nutrição — PNAN](#pol-pnan)
+18. [Programa Nacional de Imunizações — PNI](#pol-pni)
+- [Síntese — Aspecto do Relatório × Dispositivo Verificado](#pol-sintese)
+- [Nota metodológica](#pol-nota)
+
+---
+
 ## <a id="pol-pnab"></a>1. Política Nacional de Atenção Básica — PNAB
 **Portaria GM/MS nº 2.436, de 21 de setembro de 2017**
 *(consolidada como Anexo XXII da Portaria de Consolidação nº 2/GM/MS/2017 — vigente)*
@@ -19,7 +46,7 @@
 
 A PNAB é o instrumento que regula a operação cotidiana de toda a UBS. Seus dispositivos se articulam a praticamente todos os aspectos do relatório.
 
-### Corpo principal (artigos)
+### <a id="pol-pnab-corpo"></a>Corpo principal (artigos)
 
 | Dispositivo | Transcrição / conteúdo verificado | Aspecto do relatório |
 |---|---|---|
@@ -34,7 +61,7 @@ A PNAB é o instrumento que regula a operação cotidiana de toda a UBS. Seus di
 | [**Art. 10, inciso VI**](dispositivos.md#pnab-art10-vi) | Responsabilidade municipal de "organizar os serviços para permitir que a Atenção Básica atue como a porta de entrada preferencial e ordenadora da RAS" | Gestão municipal da UBS Lázaro Moreno pela Secretaria de Saúde de Uberaba |
 | [**Art. 10, inciso XIV**](dispositivos.md#pnab-art10-xiv) | Responsabilidade municipal de "selecionar, contratar e remunerar os profissionais que compõem as equipes multiprofissionais de Atenção Básica" | [Retenção](relatorio.md#r-retencao) e [dimensionamento social](relatorio.md#r-equipe-social) |
 
-### Anexo (itens numerados)
+### <a id="pol-pnab-anx"></a>Anexo (itens numerados)
 
 | Dispositivo | Conteúdo verificado | Aspecto do relatório |
 |---|---|---|
@@ -324,7 +351,7 @@ A PNH não tem artigos numerados — opera por "dispositivos" formalmente reconh
 
 ---
 
-## Síntese — Aspecto do Relatório × Dispositivo Verificado
+## <a id="pol-sintese"></a>Síntese — Aspecto do Relatório × Dispositivo Verificado
 
 | Aspecto descrito no relatório | Política / Instrumento | Dispositivo verificado |
 |---|---|---|
@@ -366,7 +393,7 @@ A PNH não tem artigos numerados — opera por "dispositivos" formalmente reconh
 
 ---
 
-## Nota metodológica
+## <a id="pol-nota"></a>Nota metodológica
 
 Este documento integra o projeto de mapeamento normativo da UBS Lázaro Moreno. O ponto de partida é o [relatório de visita de campo](relatorio.md). Cada aspecto observado nesse relatório foi indexado aqui por política nacional e dispositivo específico que o fundamenta. Os textos primários de cada dispositivo — verificados diretamente nas fontes oficiais — estão transcritos em [`dispositivos.md`](dispositivos.md).
 

@@ -6,7 +6,21 @@ Este projeto mapeia, de forma determinística, os dispositivos das políticas na
 
 ---
 
-## Por que este projeto existe
+## Índice
+
+- [Por que este projeto existe](#readme-why)
+- [Arquitetura dos documentos](#readme-arch)
+- [Princípio DRY aplicado à norma](#readme-dry)
+- [Metodologia](#readme-metodologia)
+- [Convenções de status dos instrumentos](#readme-status)
+- [Instrumentos mapeados](#readme-instrumentos)
+- [Como replicar para outra UBS](#readme-replicar)
+- [Como atualizar quando uma portaria mudar](#readme-atualizar)
+- [Unidade documentada](#readme-unidade)
+
+---
+
+## <a id="readme-why"></a>Por que este projeto existe
 
 Políticas nacionais de saúde existem em papel. A questão determinante é: **qual dispositivo específico, de qual portaria vigente, fundamenta o que uma equipe de saúde faz todos os dias?**
 
@@ -14,7 +28,7 @@ Este repositório responde a essa pergunta para a UBS Lázaro Moreno. Mas a estr
 
 ---
 
-## Arquitetura dos documentos
+## <a id="readme-arch"></a>Arquitetura dos documentos
 
 ```mermaid
 graph LR
@@ -42,7 +56,7 @@ Todos os links são bidirecionais: cada documento referencia os outros via ânco
 
 ---
 
-## Princípio DRY aplicado à norma
+## <a id="readme-dry"></a>Princípio DRY aplicado à norma
 
 O texto de cada dispositivo legal vive em **um único lugar**: [`dispositivos.md`](dispositivos.md).
 
@@ -55,7 +69,7 @@ Os documentos analíticos (`pratica_e_norma.md` e `politicas_nacionais.md`) apen
 
 ---
 
-## Metodologia
+## <a id="readme-metodologia"></a>Metodologia
 
 **Ponto de partida**: relatório de visita de campo à UBS Lázaro Moreno ([`relatorio.md`](relatorio.md)).
 
@@ -71,7 +85,7 @@ Os documentos analíticos (`pratica_e_norma.md` e `politicas_nacionais.md`) apen
 
 ---
 
-## Convenções de status dos instrumentos
+## <a id="readme-status"></a>Convenções de status dos instrumentos
 
 | Símbolo | Significado |
 |---|---|
@@ -82,7 +96,7 @@ Os documentos analíticos (`pratica_e_norma.md` e `politicas_nacionais.md`) apen
 
 ---
 
-## Instrumentos mapeados
+## <a id="readme-instrumentos"></a>Instrumentos mapeados
 
 | Instrumento | Status | Seção em dispositivos.md |
 |---|---|---|
@@ -106,7 +120,7 @@ Os documentos analíticos (`pratica_e_norma.md` e `politicas_nacionais.md`) apen
 
 ---
 
-## Como replicar para outra UBS
+## <a id="readme-replicar"></a>Como replicar para outra UBS
 
 1. Faça fork ou copie este repositório
 2. Substitua o conteúdo de `relatorio.md` pelo relatório da nova unidade
@@ -119,7 +133,7 @@ Os dispositivos já mapeados em `dispositivos.md` são reutilizáveis entre unid
 
 ---
 
-## Como atualizar quando uma portaria mudar
+## <a id="readme-atualizar"></a>Como atualizar quando uma portaria mudar
 
 1. Abra `dispositivos.md`
 2. Localize a seção do instrumento alterado (use o sumário por âncora ou a busca)
@@ -129,7 +143,7 @@ Os dispositivos já mapeados em `dispositivos.md` são reutilizáveis entre unid
 
 ---
 
-## Unidade documentada
+## <a id="readme-unidade"></a>Unidade documentada
 
 **Nome**: Unidade Básica de Saúde Lázaro Moreno
 **Endereço**: Rua Otaviano Francisco da Silva, nº 51 — Bairro Girassóis IV

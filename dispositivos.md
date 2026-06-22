@@ -12,7 +12,7 @@ Repositório dos textos primários de todos os dispositivos normativos citados n
 
 ---
 
-## Sumário por instrumento
+## <a id="dispositivos-sumario"></a>Sumário por instrumento
 
 | # | Instrumento | Status | Âncora da seção | Âncoras dos dispositivos |
 |---|---|---|---|---|
@@ -734,7 +734,7 @@ Principais mudanças trazidas pela Portaria 7.293/2025: (a) regulamenta a amplia
 
 ---
 
-## Nota metodológica
+## <a id="dispositivos-nota"></a>Nota metodológica
 
 Este documento integra o projeto de mapeamento normativo da UBS Lázaro Moreno. O ponto de partida do projeto é o relatório de visita de campo ao estabelecimento ([`relatorio.md`](relatorio.md)). Cada ação observada nesse relatório foi correlacionada ao instrumento normativo que a ampara — correlação registrada em [`pratica_e_norma.md`](pratica_e_norma.md) e indexada em [`politicas_nacionais.md`](politicas_nacionais.md). Este documento reúne os textos primários dos dispositivos citados nesses dois documentos analíticos.
 

@@ -14,6 +14,32 @@
 
 ---
 
+## Índice
+
+1. [Contexto e território](#r-contexto)
+2. [Equipe](#r-equipe)
+3. [Serviços oferecidos](#r-servicos)
+   - [Atenção básica geral](#r-atencao-basica)
+   - [Saúde da mulher e materno-infantil](#r-materno-infantil)
+   - [Saúde bucal](#r-saude-bucal)
+   - [Saúde do idoso](#r-saude-idoso)
+   - [Saúde mental](#r-saude-mental)
+   - [Doenças crônicas](#r-doencas-cronicas)
+   - [Vigilância em saúde](#r-vigilancia)
+   - [Programas sociais](#r-programas-sociais)
+   - [Visitas domiciliares](#r-visitas)
+   - [Ações comunitárias e eventos](#r-acoes-comunitarias)
+4. [Desafios relatados](#r-desafios)
+   - [Transporte](#r-transporte)
+   - [Retenção de profissionais](#r-retencao)
+   - [Infraestrutura de tecnologia da informação](#r-ti)
+   - [Acesso à atenção especializada](#r-especializada)
+   - [Dimensionamento da equipe social](#r-equipe-social)
+5. [Avanços observados](#r-avancos)
+6. [Nota metodológica](#r-nota)
+
+---
+
 ## <a id="r-contexto"></a>1. Contexto e território
 
 > **Análise normativa:** [Prática e Norma — §1 A unidade e seu papel](pratica_e_norma.md#pn-s1) · [Políticas Nacionais — PNAB](politicas_nacionais.md#pol-pnab)
@@ -174,7 +200,7 @@ As duas assistentes sociais são insuficientes para cobrir adequadamente as ~9.0
 
 ---
 
-## Nota metodológica
+## <a id="r-nota"></a>Nota metodológica
 
 Este relatório registra as observações coletadas durante visita de campo à UBS Lázaro Moreno. A análise normativa derivada — correlacionando cada observação aos dispositivos específicos de políticas nacionais de saúde — está documentada em [`pratica_e_norma.md`](pratica_e_norma.md). O índice das políticas e seus dispositivos está em [`politicas_nacionais.md`](politicas_nacionais.md). Os textos primários verificados de cada dispositivo estão em [`dispositivos.md`](dispositivos.md).
 
