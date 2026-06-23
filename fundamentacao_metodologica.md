@@ -27,7 +27,15 @@ Este documento descreve as tradições acadêmicas e os autores de referência q
 
 ## <a id="fm-s1"></a>1. O que este projeto faz, em termos metodológicos
 
-O projeto parte de um relatório de observação de campo em uma Unidade Básica de Saúde e constrói, a partir dele, um mapeamento sistemático dos dispositivos normativos que amparam cada ação observada. Cada dispositivo é verificado diretamente na fonte primária (texto oficial publicado pelo Ministério da Saúde), e as relações entre norma e prática são tornadas explícitas e rastreáveis.
+O projeto parte de um relatório de observação de campo em uma Unidade Básica de Saúde — com abordagem descritiva, sem inferências normativas — e constrói, a partir dele, um mapeamento sistemático dos dispositivos das Políticas Nacionais de Saúde que amparam cada ação observada. O processo é mediado por validação manual em dois momentos distintos antes de qualquer documento analítico ser gerado.
+
+**O processo opera em três fases:**
+
+1. **Coleta determinística pela IA**: a IA enumera todos os serviços e ações descritos no relatório, um a um, sem omissão. O usuário revisa e aprova a lista antes de qualquer avanço.
+2. **Pesquisa normativa pela IA com validação manual por dispositivo**: a IA identifica as Políticas Nacionais de Saúde pertinentes, com link exato ao texto oficial em site governamental. O usuário abre e confirma cada dispositivo individualmente.
+3. **Geração dos documentos analíticos**: somente após as duas validações, os documentos são gerados.
+
+Cada dispositivo é verificado diretamente na fonte primária (texto oficial publicado pelo Ministério da Saúde), e as relações entre norma e prática são tornadas explícitas e rastreáveis.
 
 Em termos metodológicos, isso combina três elementos:
 
@@ -93,7 +101,12 @@ O uso de um modelo de linguagem (LLM) como ferramenta de sistematização é o e
 
 O que pode ser afirmado com respaldo:
 
-**O que a IA fez neste projeto** não foi interpretar, inferir ou gerar conclusões. Foi sistematizar, organizar e verificar — operações que têm equivalente metodológico na análise de conteúdo e na análise documental clássicas. A restrição operacional adotada — nenhuma citação sem verificação na fonte primária, nenhum artigo inferido — corresponde ao critério de auditabilidade de Lincoln e Guba, aplicado a um contexto novo.
+**O que a IA fez neste projeto** não foi interpretar, inferir ou gerar conclusões. Operou em dois momentos distintos, ambos submetidos a validação manual antes de qualquer avanço:
+
+- *Momento 1*: enumerou deterministicamente todos os serviços e ações observados no relatório, um a um, sem omissão — equivalente metodológico a uma codificação aberta em análise de conteúdo.
+- *Momento 2*: para a lista validada pelo usuário, identificou as Políticas Nacionais de Saúde pertinentes, com link exato ao texto oficial em site governamental (bvsms.saude.gov.br ou gov.br/saude), para verificação manual dispositivo a dispositivo.
+
+A restrição operacional adotada — nenhuma citação sem verificação na fonte primária, nenhum artigo inferido, nenhum documento gerado antes das duas validações do usuário — corresponde ao critério de auditabilidade de Lincoln e Guba, aplicado a um contexto novo.
 
 **O que isso representa** é uma contribuição metodológica genuinamente nova: demonstrar que LLMs podem ser usados como ferramentas de sistematização documental com critérios de rigor verificáveis, desde que operados com restrições explícitas. Isso é diferente de usar IA para gerar texto ou inferir conclusões.
 

@@ -37,13 +37,45 @@ A pergunta central deste projeto — como as políticas nacionais se materializa
 
 O que este projeto não replica é o nível de granularidade normativa: não "a UBS cumpre a PNAB?" mas "qual artigo, qual inciso, qual item do Anexo ampara cada ação específica observada — e esse dispositivo está vigente?". Os instrumentos avaliativos consolidados medem atributos e experiências; este projeto mapeia a ancoragem normativa precisa de práticas observadas, com rastreabilidade até a fonte primária e verificação ativa de vigência.
 
-A utilidade disso não é substituir avaliações robustas de APS. É oferecer algo diferente: um instrumento de mediação entre a norma e quem trabalha na ponta — gestores municipais que precisam documentar práticas, equipes que desconhecem o respaldo legal do que fazem, estudantes aprendendo a ler políticas públicas. E, com o processo aqui descrito, algo que qualquer pessoa com um relatório de campo consegue replicar sem ser especialista em direito sanitário.
+A utilidade disso não é substituir avaliações robustas de APS. É oferecer algo diferente: um instrumento de mediação entre a norma e quem trabalha na ponta — estudantes aprendendo a ler políticas públicas, gestores municipais que precisam documentar práticas, equipes que desconhecem o respaldo legal do que fazem. E, com o processo aqui descrito, algo que qualquer pessoa com um relatório de campo consegue replicar sem ser especialista em direito sanitário.
 
 A eventual contribuição acadêmica está menos na originalidade da pergunta e mais na acessibilidade e reprodutibilidade do processo — especialmente com o uso de IA como ferramenta de sistematização auditável.
 
 ---
 
 ## <a id="readme-arch"></a>Arquitetura dos documentos
+
+### Fluxo de construção
+
+O diagrama abaixo mostra **como o projeto é construído**, incluindo as etapas intermediárias de coleta e validação que precedem a geração dos documentos finais.
+
+```mermaid
+graph TD
+    R["relatorio.md\n(Observação de campo —\nponto de partida)"]
+    C1["① Coleta determinística pela IA\nEnumeração de todos os serviços/ações,\num a um, sem omissão"]
+    V1["② Validação manual pelo usuário\nConferência da lista: algo faltou?\nalgo foi incluído indevidamente?"]
+    C2["③ Pesquisa de políticas pela IA\nIdentificação das Políticas Nacionais\nde Saúde pertinentes, com link exato\nao texto oficial em site governamental"]
+    V2["④ Validação manual por dispositivo\nUsuário abre cada link, lê o texto,\nconfirma a pertinência — um a um"]
+    PN["pratica_e_norma.md\n(Correlação prática e norma)"]
+    POL["politicas_nacionais.md\n(Índice normativo)"]
+    D["dispositivos.md\n(Textos primários)"]
+    FM["fundamentacao_metodologica.md\n(Embasamento metodológico)"]
+
+    R --> C1
+    C1 --> V1
+    V1 -->|aprovado| C2
+    C2 --> V2
+    V2 -->|aprovado| PN
+    V2 -->|aprovado| POL
+    V2 -->|aprovado| D
+    PN -- cita --> D
+    POL -- cita --> D
+    D -. retrolink .-> PN
+    D -. retrolink .-> POL
+    FM -. enquadra .-> R
+```
+
+### Estrutura final dos documentos
 
 ```mermaid
 graph LR
@@ -89,13 +121,40 @@ Os documentos analíticos (`pratica_e_norma.md` e `politicas_nacionais.md`) apen
 
 ## <a id="readme-metodologia"></a>Metodologia
 
-**Ponto de partida**: relatório de visita de campo à UBS Lázaro Moreno ([`relatorio.md`](relatorio.md)).
+**Ponto de partida**: relatório de visita de campo à UBS Lázaro Moreno ([`relatorio.md`](relatorio.md)). O relatório tem abordagem **descritiva**: narra o que foi observado, sem já estabelecer vínculos normativos.
 
-**Cadeia de verificação**:
-1. Cada ação ou situação descrita no relatório foi identificada como um aspecto a ser fundamentado normativamente.
-2. A política nacional aplicável foi identificada.
-3. O dispositivo específico (artigo, inciso, alínea, item do Anexo) foi localizado **diretamente no texto oficial** publicado no portal BVSMS/Ministério da Saúde (bvsms.saude.gov.br) ou no portal gov.br/saude — incluindo as Matrizes de Consolidação para portarias revogadas por consolidação em 2017.
-4. A vigência de cada instrumento foi verificada ativamente, com busca por revogações, substituições e atualizações relevantes.
+A partir do relatório, o processo se divide em duas fases com validação manual antes de qualquer documento analítico ser gerado.
+
+---
+
+### Fase 1 — Coleta determinística e validação da lista de serviços
+
+**Etapa 1 — Enumeração pela IA**: a IA lê o relatório e lista **todos** os serviços, ações e situações observados, um a um, sem omissão. O critério é exaustividade: nenhum aspecto do relatório pode ser silenciado nessa listagem.
+
+**Etapa 2 — Validação manual pelo usuário**: o usuário confere a lista item a item. Verifica se algum serviço ficou faltando; verifica se algo foi incluído indevidamente (ex.: inferência não amparada pelo relato). Somente após aprovação da lista o processo avança.
+
+---
+
+### Fase 2 — Pesquisa normativa e validação por dispositivo
+
+**Etapa 3 — Pesquisa de Políticas Nacionais de Saúde pela IA**: para cada serviço ou ação da lista validada, a IA identifica quais **Políticas Nacionais de Saúde** são pertinentes — exclusivamente políticas nacionais instituídas pelo Ministério da Saúde, não leis ou normas que não sejam relacionadas ou derivadas de políticas de saúde. Para cada política identificada, a IA fornece:
+- o dispositivo específico (artigo, inciso, alínea, item de Anexo);
+- o **link exato ao texto da norma em site oficial** (bvsms.saude.gov.br ou gov.br/saude);
+- nos casos em que o link oficial direto não for acessível pela IA, a referência completa para que o usuário localize o texto por busca ou cópia-e-cola.
+
+**Etapa 4 — Validação manual por dispositivo**: o usuário analisa **cada dispositivo individualmente**, abrindo o link gerado ou buscando a referência fornecida. Confirma: o texto existe naquele endereço? O dispositivo é pertinente à ação observada? O instrumento está vigente? Somente após aprovação dispositivo a dispositivo o processo avança para a geração dos documentos.
+
+---
+
+### Fase 3 — Geração dos documentos
+
+Com a lista de serviços e a ancoragem normativa aprovadas pelo usuário, os documentos analíticos são gerados:
+
+- [`pratica_e_norma.md`](pratica_e_norma.md): cada ação correlacionada ao dispositivo que a ampara.
+- [`politicas_nacionais.md`](politicas_nacionais.md): índice organizado por política, com dispositivos e relação com o relatório.
+- [`dispositivos.md`](dispositivos.md): textos primários completos, links às fontes oficiais e retrolinks aos documentos analíticos.
+
+---
 
 **O que "determinístico" significa aqui**: cada dispositivo citado pode ser localizado na fonte que consta em [`dispositivos.md`](dispositivos.md), na URL indicada, e o texto transcrito pode ser verificado por qualquer pessoa. Não há inferência sobre o conteúdo da norma — apenas transcrição do verificado.
 
@@ -140,12 +199,25 @@ Os documentos analíticos (`pratica_e_norma.md` e `politicas_nacionais.md`) apen
 
 ## <a id="readme-replicar"></a>Como replicar para outra UBS
 
-1. Faça fork ou copie este repositório
-2. Substitua o conteúdo de `relatorio.md` pelo relatório da nova unidade
-3. Em `pratica_e_norma.md`, correlacione as ações da nova UBS aos dispositivos
-4. Em `politicas_nacionais.md`, mantenha ou adicione políticas aplicáveis
-5. Em `dispositivos.md`, adicione ou remova dispositivos conforme as ações observadas
-6. Atualize o `README.md` com os dados da nova unidade
+> **Nota sobre template**: este projeto (UBS Lázaro Moreno) serve de base para a criação de um template genérico reutilizável. O template ainda não existe como arquivo separado — será criado a partir deste documento como placeholder para novos projetos.
+
+O processo segue as mesmas fases descritas em [Metodologia](#readme-metodologia):
+
+**Fase 1 — Coleta e validação da lista de serviços**
+
+1. Substitua o conteúdo de `relatorio.md` pelo relatório da nova unidade (manter abordagem descritiva, sem vínculos normativos no texto do relatório).
+2. Peça à IA que liste **todos** os serviços e ações observados, um a um, sem omissão.
+3. Revise a lista: confirme que nada ficou faltando e que nada foi inferido além do que o relatório descreve.
+
+**Fase 2 — Pesquisa normativa e validação por dispositivo**
+
+4. Peça à IA que identifique as Políticas Nacionais de Saúde pertinentes a cada serviço, com link exato ao texto oficial.
+5. Abra e leia cada link (ou localize a referência fornecida). Confirme pertinência e vigência de cada dispositivo individualmente.
+
+**Fase 3 — Geração dos documentos analíticos**
+
+6. Com lista e ancoragem aprovadas, gere `pratica_e_norma.md`, `politicas_nacionais.md` e `dispositivos.md`.
+7. Atualize o `README.md` com os dados da nova unidade.
 
 Os dispositivos já mapeados em `dispositivos.md` são reutilizáveis entre unidades — a maioria das normas é nacional e se aplica a qualquer UBS do SUS.
 
